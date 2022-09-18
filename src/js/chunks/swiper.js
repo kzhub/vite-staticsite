@@ -1,4 +1,5 @@
 import Swiper from 'swiper/bundle'
+import 'swiper/css';
 
 export const Slider = () => {
   const option = {
