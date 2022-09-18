@@ -1,3 +1,7 @@
 body{
     display: flex;
 }
+
+@import "./components/_header.scss";
+
+@import "./page/_top.scss";
