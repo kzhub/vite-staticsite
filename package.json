@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "serve": "serve ./dist"
+    "serve": "serve ./src/dist"
   },
   "devDependencies": {
     "vite": "^3.1.0"
@@ -16,6 +16,7 @@
     "autoprefixer": "^10.4.11",
     "sass": "^1.54.9",
     "serve": "^14.0.1",
-    "swiper": "^8.4.2"
+    "swiper": "^8.4.2",
+    "vite-plugin-handlebars": "^1.6.0"
   }
 }
